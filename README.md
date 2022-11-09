@@ -1,6 +1,6 @@
 👋 Hi, I’m @anamichelch
 
-- About me;
+
 - I have BS degree in Industral Engineering.
  🐚  I am Mexican and living in the caribbean coast.
 
