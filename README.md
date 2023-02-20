@@ -11,4 +11,4 @@
 
 - Next in line: Native IOs Mobile Developement.
 
--👀 I’m interested in travel, clean energy and art: ceramics.
+-👀 I’m interested in travel, clean energy and art.
