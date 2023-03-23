@@ -2,13 +2,13 @@
 
 
 - I have BS degree in Industral Engineering.
- 🐚  I am Mexican and living in the caribbean coast.
+- And career shift as a Software Developer since April 2022
 
-- Earlier this Year (2022), I realized that I want to implement my problem solving skills, and math-logic thinking into programming.
 
-- Currently specializing in Fullstack Skills.
+- Currently specializing in Fullstack Skills, Back End, 
 -🌱  Python, Flask, CSS, HTML, JS, React
 
-- Next in line: Native IOs Mobile Developement.
 
 -👀 I’m interested in travel, clean energy and art.
+
+You can contact me at ana.michelc13@gmail.com
