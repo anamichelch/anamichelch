@@ -2,7 +2,7 @@
 
 
 - I have BS degree in Industral Engineering.
-- And career shift as a Software Developer since April 2022
+- Software Developer since April 2022
 
 
 - Currently specializing in Fullstack Skills, Back End, 
