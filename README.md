@@ -1,9 +1,7 @@
-👋 Hi, I’m @anamichelch
+👋 Hi, I’m @anamichelch || Software Developer JR.
 
 
-- I have BS degree in Industral Engineering.
-- Software Developer since April 2022
-
+- 6+ years of experience in as Industral Engineering.
 
 - Currently specializing in Fullstack Skills, Back End, 
 -🌱  Python, Flask, CSS, HTML, JS, React
