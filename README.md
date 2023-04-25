@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **REST API creation**
 
-- 🌱 I’m currently learning **SQL, MongoDB, Django**
+- 🌱 I’m currently learning **SQL, Django**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
