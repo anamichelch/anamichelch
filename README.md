@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on **REST API creation**
 
-- 🌱 I’m currently learning **SQL, Django**
+- 🌱 I’m currently learning **FAST API, AWS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anamichelch](https://github.com/anamichelch)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **ana.michelc13@gmail.com**
 
-- ⚡ Interests **Renewbable Energy | Ceramics**
+- ⚡ Interests **Renewbable Energy | Travel and Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
